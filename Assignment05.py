@@ -5,10 +5,11 @@
 # a Python course. In this assignment we are building a list of dictionaries.
 #
 # Change Log:
-# 10/6/2024: Beginning script outline
-# 11/7/2024: Pycharm is somewhat fixed. adding first attempt to make list of list
-# 11/8/2024: Implement more tries at List-of-List (LOL). Nearly to complete.
-# 11/9/2024: Following office hours I fixed up the script by adding for loops and with
+# 11/6/2024: Beginning script outline
+# 11/7/2024: first attempt to use JSON to open and close
+# 11/8/2024: More tries at what we are doing dictionary wise
+# 11/9/2024: running into issues with file location
+#11/10/2024: Adding error handling
 # statements.
 #
 # Kristie Dunkin       11/11/2024     Assignment 05

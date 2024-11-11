@@ -15,9 +15,8 @@
 # ------------------------------------------------------------------------------- #
 #
 import json
-
 # Define Constants:
-FILE_NAME: str = "C:\\Users\\Kristie\\OneDrive\\Python Fundamentals\\_Module05\\Assignment\\Enrollments.json"
+FILE_NAME: str = "Enrollments.json"
 MENU: str = '''
  ----Course Registration Program Menu-----
  1. Register a student for a course 

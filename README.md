@@ -1,1 +1,1 @@
-This is the results of Assignment 05 for Python Fundamentals Winter 2024. Advance Collections and Error handling.  Work on this included use of dictionaries, JSON file managment, error handling, and the first use of GitHub repository. 
+This is the results of Assignments for Python Fundamentals Winter 2024. 

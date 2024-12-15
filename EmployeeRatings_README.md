@@ -2,7 +2,8 @@
 ## Introduction
 
 The Employee Ratings Program was developed in the Fall of 2024 using Python 3.13. The following provides documentation for this program. 
-Problem to Be Addressed
+
+## Problem to Be Addressed
 The customer desires to collect employee ratings information from employees, including date of rating and the rating result. The program records this information against the employees’ first and last names. The customer plans to store this information in a file to create a record. 
 
 ## Design
